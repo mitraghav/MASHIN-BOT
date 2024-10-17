@@ -32,20 +32,20 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "TAKLU BABU",
-    "PREFIX": "#",
+    "BOTNAME": "BOT_NAME",
+    "PREFIX": "ADD_PREFIX",
     "ADMINBOT": [
-        "100070531069371"
+        "OWNER_UID"
     ],
     "NDH": [
-        "100070531069371"
+        "OWNER_UID"
     ],
     "DATABASE": {
         "sqlite": {
             "storage": "antist.sqlite"
         }
     },
-    "APPSTATEPATH": "PREM-PROJECT.json",
+    "APPSTATEPATH": "PREM-PROJECT.json", //*DON'T CHANAGE JSON NAME
     "FCAOption": {
         "forceLogin": true,
         "listenEvents": true,
