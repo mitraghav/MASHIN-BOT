@@ -6,8 +6,7 @@
 
 ## INSTALLATION
 
-To install the project, run the following command:
-Then, start the bot with:
+TO INSTALL THE PREM PROJECT RUN THE FOLLOWING COMMAND THEN START THE PREM BOT WITH ❤️‍🔥
 ## THANK YOU 
 
 **THANK YOU FOR USING PREM BABU BOT**
