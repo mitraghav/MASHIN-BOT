@@ -16,5 +16,4 @@
 
 ```bash
 npm install prem-babu-fca
-```bash
 npm start
