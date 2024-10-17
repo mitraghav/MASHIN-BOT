@@ -1,7 +1,7 @@
 {
   "name": "PREM-BABU",
   "version": "17.0.0",
-  "description": "THIS BOT WAS MR PREM BABU",
+  "description": "THIS BOT WAS MR PREM BABU 🙂",
   "main": "PREM-BABU.js",
   "scripts": {
     "start": "node index",
