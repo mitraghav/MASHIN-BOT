@@ -1,1 +1,3 @@
-THIS BOT IS MADE BY MR PREM BABU 🙂
+PREM PROJECT NEW BOT ✅
+#npm install
+#npm start
