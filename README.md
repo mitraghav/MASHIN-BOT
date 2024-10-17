@@ -8,7 +8,8 @@
 
 TO INSTALL THE PREM PROJECT RUN THE FOLLOWING COMMAND THEN START THE PREM BOT WITH ❤️‍🔥
 
-Then, start the bot with:
+```bash
+npm install 
 
 ## THANK YOU 
 
