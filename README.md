@@ -14,6 +14,6 @@
 
 ![Image](https://i.imgur.com/rZxmABp.png)
 
-# **NPM INSTALL && NPM START**
+#### **NPM INSTALL && NPM START**
 ```bash
 npm install && npm start
