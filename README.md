@@ -12,4 +12,4 @@
 
 **THANK YOU FOR USING PREM BABU BOT**
 
-![Image](https://imgur.com/your_image_link_here)
+![Image](https://i.imgur.com/rZxmABp.png)
