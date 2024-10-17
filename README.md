@@ -17,3 +17,4 @@
 ```bash
 npm install prem-babu-fca
 npm start
+Isme `npm install` aur `npm start` ke liye alag alag boxes hain taaki user alag alag copy kar sakein.
