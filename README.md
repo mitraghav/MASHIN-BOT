@@ -1,14 +1,14 @@
-# **THIS NEW PROJECT IS OF PREM BABU**
+# **THIS NEW PROJECT IS OF PREM BABU ✅**
 
 1. **PREM PROJECT**
 2. **PREM BABU FCA**
 3. **PREM FCA BOT**
 
-## Installation
+## INSTALLATION
 
 To install the project, run the following command:
 Then, start the bot with:
-## Thank You
+## THANK YOU 
 
 **THANK YOU FOR USING PREM BABU BOT**
 
