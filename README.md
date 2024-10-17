@@ -6,15 +6,14 @@
 
 ## INSTALLATION
 
-TO INSTALL THE PREM PROJECT RUN THE FOLLOWING COMMAND THEN START THE PREM BOT WITH ❤️‍🔥 
+**TO INSTALL THE PREM PROJECT RUN THE FOLLOWING COMMAND THEN START THE PREM BOT WITH ❤️‍🔥** 
 
+## NPM INSTALL && NPM START
+```bash
+**npm install prem-babu-fca**
 
-## THANK YOU 
+# **THANK YOU**
 
 **THANK YOU FOR USING PREM BABU BOT**
 
 ![Image](https://imgur.com/your_image_link_here)
-
-## NPM INSTALL && NPM START
-```bash
-npm install prem-babu-fca
