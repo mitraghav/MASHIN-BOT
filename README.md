@@ -14,7 +14,7 @@
 
 ![Image](https://i.imgur.com/rZxmABp.png)
 
-##### **RENDER DEPLOY**
+### **RENDER DEPLOY**
 #### **NPM INSTALL && NPM START**
 ```bash
 npm install && npm start
