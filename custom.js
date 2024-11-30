@@ -15,7 +15,7 @@ module.exports = async ({ api }) => {
   function autoRestart(config) {
     if(config.status) {
       setInterval(async () => {
-        logger(`STARTING SYSTEM RESTART!`, "[ Auto Restart ]")
+        logger(`STARTING SYSTEM RESTART!`, "[ PREM PROJECT AUTO RESTART ]")
         process.exit(1)
       }, config.time * 60 * 1000)
     }
