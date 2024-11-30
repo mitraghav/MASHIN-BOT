@@ -19,10 +19,13 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '16'  # Node.js version, customize if needed
+          node-version: '18'  # Latest LTS version
+
+      - name: Clear npm cache
+        run: npm cache clean --force
 
       - name: Install dependencies
-        run: npm install prem-babu-api
+        run: npm install
 
       - name: Start the application
         run: npm start
