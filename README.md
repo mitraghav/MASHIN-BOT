@@ -16,9 +16,11 @@
 ![Image](https://i.imgur.com/rZxmABp.png)
 
 ```bash
-npm install
+npm install prem-babu-fca
 ```
-
+```bash
+npm install prem-babu-api
+```
 ```bash
 npm start
 ```
