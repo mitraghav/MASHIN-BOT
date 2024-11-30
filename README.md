@@ -4,7 +4,7 @@
   
 </h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&font-weight=bold&size=20&color=FFFF00&background=FF0000&center=true&vCenter=true&width=400&height=60&lines=HELLO+FRIENDS+I'M+MR+PREM+BABU+🙂+🤞;PREM+PROGRAMMING;PREM+FCA+BOT;THANKYOU+FOR+USING+PREM+PROJECT&border=20px+solid+000000&speed=100)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&font-weight=bold&size=20&color=FFFF00&background=FF0000&center=true&vCenter=true&width=400&height=60&lines=HELLO+FRIENDS+I'M+MR+PREM+BABU+🙂+🤞;PREM+PROGRAMMING;PREM+BABU-API;THANKYOU+FOR+USING+PREM+PROJECT&border=20px+solid+000000&speed=100)](https://git.io/typing-svg)
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-red?style=for-the-badge&logo=whatsapp)](https://wa.me/+919501113608)
 [![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://www.facebook.com/prembabu66)
@@ -16,9 +16,6 @@
 ![Image](https://i.imgur.com/rZxmABp.png)
 
 ```bash
-npm install prem-babu-fca
-```
-```bash
 npm install prem-babu-api
 ```
 ```bash
@@ -27,5 +24,5 @@ npm start
 
 ## PREM PROJECT FCA 
 ```js
-const login = require("prem-babu-fca");
+const login = require("prem-babu-api");
 ```
