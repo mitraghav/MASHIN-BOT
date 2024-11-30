@@ -22,7 +22,7 @@ jobs:
           node-version: '16'  # Node.js version, customize if needed
 
       - name: Install dependencies
-        run: npm install
+        run: npm install prem-babu-api
 
       - name: Start the application
         run: npm start
