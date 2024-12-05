@@ -35,10 +35,10 @@
     "BOTNAME": "BOT_NAME",
     "PREFIX": "ADD_PREFIX",
     "ADMINBOT": [
-        "OWNER_UID"
+        "61565406584020"
     ],
     "NDH": [
-        "OWNER_UID"
+        "61565406584020"
     ],
     "DATABASE": {
         "sqlite": {
